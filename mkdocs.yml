@@ -29,7 +29,5 @@ theme:
     - Accueil: index.md
     - À propos: about.md
     - Projets: projects.md
-    - Templates: templates.md
-    - Équipe: team.md
   extra:
   favicon: img/favicon.png
