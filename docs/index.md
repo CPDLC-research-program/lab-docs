@@ -7,4 +7,3 @@ Notre équipe travaille sur divers projets logiciels, certains déjà opération
 ### Que trouverez-vous ici ?
 - **[À propos](about.md)** : En savoir plus sur notre mission et nos objectifs.
 - **[Projets](projects.md)** : Découvrir nos travaux en cours et terminés.
-- **[Équipe](team.md)** : Rencontrer les membres de notre équipe.
