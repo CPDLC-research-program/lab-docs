@@ -1,0 +1,21 @@
+table img {
+    max-width: 50px;
+    height: auto;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+table img:hover {
+    transform: scale(1.2);
+    transition: transform 0.2s ease-in-out;
+}
+
+table td:nth-child(6) {
+    max-width: 200px;
+    word-wrap: break-word;
+}
+
+table td, table th {
+    padding: 0.5em;
+    vertical-align: top;
+}  

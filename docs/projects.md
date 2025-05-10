@@ -1,37 +1,20 @@
 # Nos projets
 
-Voici un aperçu des projets logiciels du CPDLC Research Program. Certains sont déjà opérationnels, tandis que d’autres sont en cours de développement. Nos projets peuvent varier en langages de programmation, mais tous visent à améliorer l’expérience des pilotes.
+Bienvenue sur la page des projets du CPDLC Research Program ! Découvrez ici nos initiatives pour améliorer l’expérience des pilotes grâce à X-Plane. Certains projets sont déjà opérationnels, tandis que d’autres sont en développement.
 
 ## Projets existants
 
-- **Projet 1**
-  - **Description**
-  - **Langage**
-  - **Statut**
-  - **Lien**
-
-- **Projet 2**
-  - **Description**
-  - **Langage**
-  - **Statut**
-  - **Lien**
-
-- **Projet 3**
-  - **Description**
-  - **Langage**
-  - **Statut**
-  - **Lien**
+| Projet      | Étudiant      | Photo                    | Année | Statut   | Description                       | Repo                   |
+|-------------|---------------|--------------------------|-------|----------|-----------------------------------|------------------------|
+| Projet 1    | Étudiant 1    | ![Photo](img/user.png)   | Année | Terminé  | [Description détaillée du projet 1] | [Lien](URL)            |
+| Projet 2    | Étudiant 2    | ![Photo](img/user.png)   | Année | Terminé  | [Description détaillée du projet 2] | [Lien](URL)            |
+| Projet 3    | Étudiant 3    | ![Photo](img/user.png)   | Année | Terminé  | [Description détaillée du projet 3] | [Lien](URL)            |
 
 ## Projets en cours
 
-- **Projet 4**
-  - **Description**
-  - **Langage**
-  - **Statut**
-  - **Lien**
+| Projet      | Étudiant      | Photo                    | Année | Statut           | Description                       | Repo                   |
+|-------------|---------------|--------------------------|-------|------------------|-----------------------------------|------------------------|
+| Projet 4    | Étudiant 4    | ![Photo](img/user.png)   | Année | En développement | [Description détaillée du projet 4] | [Lien](URL)            |
+| Projet 5    | Étudiant 5    | ![Photo](img/user.png)   | Année | En développement | [Description détaillée du projet 5] | [Lien](URL)            |
 
-- **Projet 5**
-  - **Description**
-  - **Langage**
-  - **Statut**
-  - **Lien**
+---
