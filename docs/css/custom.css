@@ -30,3 +30,13 @@ table td a {
 table td a:hover {
     text-decoration: underline;
 }
+
+::selection {
+    background-color: #cce7ff;
+    color: #000000;
+}
+
+::-moz-selection {
+    background-color: #cce7ff;
+    color: #000000;
+}
