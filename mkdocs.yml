@@ -21,12 +21,11 @@ theme:
     - pymdownx.emoji
     - pymdownx.highlight
     - pymdownx.tabbed
-
-  extra_css:
-    - css/custom.css
   nav:
     - Accueil: index.md
     - À propos: about.md
     - Projets: projects.md
   extra:
   favicon: img/favicon.png
+extra_css:
+  - css/custom.css

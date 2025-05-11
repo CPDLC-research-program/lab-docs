@@ -1,24 +1,48 @@
-table img {
-    max-width: 50px;
-    height: auto;
-    border-radius: 50%;
-    object-fit: cover;
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1em;
+    font-size: 0.95rem;
+    line-height: 1.4;
 }
 
-table img:hover {
-    transform: scale(1.2);
-    transition: transform 0.2s ease-in-out;
+table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
 }
 
 table td:nth-child(6) {
-    max-width: 300px;
+    max-width: 400px;
+    min-width: 300px;
     white-space: normal;
     word-break: break-word;
+    hyphens: auto;
+    text-align: justify;
 }
 
-table td, table th {
-    padding: 0.5em;
+/* Pour que la table s'adapte mieux */
+table {
+    table-layout: auto; /* important ici pour que les colonnes s'adaptent au contenu */
+}
+
+
+table thead {
+    background-color: #3366cc;
+    color: white;
+    text-align: left;
+}
+
+table th, table td {
+    padding: 0.75em;
     vertical-align: top;
+    border-bottom: 1px solid #ddd;
+}
+
+table img {
+    max-width: 48px;
+    height: auto;
+    border-radius: 50%;
+    object-fit: cover;
+    transition: transform 0.2s ease-in-out;
 }
 
 table td a {
@@ -31,12 +55,17 @@ table td a:hover {
     text-decoration: underline;
 }
 
-::selection {
-    background-color: #cce7ff;
-    color: #000000;
+table td:nth-child(6) {
+    max-width: 320px;
+    white-space: normal;
+    word-break: break-word;
 }
 
+::selection {
+    background-color: #cce7ff;
+    color: #000;
+}
 ::-moz-selection {
     background-color: #cce7ff;
-    color: #000000;
+    color: #000;
 }
