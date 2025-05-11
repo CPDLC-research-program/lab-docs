@@ -11,11 +11,22 @@ table img:hover {
 }
 
 table td:nth-child(6) {
-    max-width: 200px;
-    word-wrap: break-word;
+    max-width: 300px;
+    white-space: normal;
+    word-break: break-word;
 }
 
 table td, table th {
     padding: 0.5em;
     vertical-align: top;
-}  
+}
+
+table td a {
+    color: #3366cc;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+table td a:hover {
+    text-decoration: underline;
+}
