@@ -1,31 +1,47 @@
 site_name: CPDLC Research Program
 site_url: https://CPDLC-research-program.github.io/lab-docs/
 repo_url: https://github.com/CPDLC-research-program/lab-docs
+
 theme:
   name: material
   language: fr
   features:
-    - navigation.instant
     - navigation.sections
     - navigation.top
     - content.code.copy
     - search.suggest
-  markdown_extensions:
-    - admonition
-    - codehilite
-    - toc:
-        permalink: true
-    - pymdownx.tasklist
-    - pymdownx.superfences
-    - pymdownx.details
-    - pymdownx.emoji
-    - pymdownx.highlight
-    - pymdownx.tabbed
-  nav:
-    - Accueil: index.md
-    - À propos: about.md
-    - Projets: projects.md
-  extra:
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.tasklist
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.emoji
+  - pymdownx.highlight
+  - pymdownx.tabbed
+
+plugins:
+  - search
+  - i18n:
+      languages:
+        - locale: fr
+          name: Français
+          default: true
+          build: true
+        - locale: en
+          name: English
+          build: true
+
+nav:
+  - Accueil: index.md
+  - À propos: about.md
+  - Projets: projects.md
+
+extra:
   favicon: img/favicon.png
+
 extra_css:
   - css/custom.css
