@@ -4,13 +4,11 @@ Bienvenue sur la page des projets du CPDLC Research Program ! Découvrez ici nos
 
 ## Projets existants
 
-| Projet      | Étudiant      | Photo                    | Année | Statut   | Description                       | Repo                   |
-|-------------|---------------|--------------------------|-------|----------|-----------------------------------|------------------------|
-
-| Application Web CPDLC        | Shristi & Maïlys | ![Photo](img/user.png)   | 2025  | Terminé  | Application Flask permettant d'interagir avec un agent CPDLC via une interface web. Utilise Ingescape pour la communication avec l'agent. | [Lien](https://github.com/CPDLC-research-program/cpdlc-flask-app)   |
-
-| Projet 2    | Étudiant 2    | ![Photo](img/user.png)   | Année | Terminé  | [Description détaillée du projet 2] | [Lien](URL)            |
-| Projet 3    | Étudiant 3    | ![Photo](img/user.png)   | Année | Terminé  | [Description détaillée du projet 3] | [Lien](URL)            |
+| Projet                   | Étudiant           | Photo                  | Année | Statut   | Description                                                                                                  | Repo                                                                 |
+|--------------------------|--------------------|-------------------------|-------|----------|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Application Web CPDLC    | Shristi & Maïlys   | ![Photo](img/user.png) | 2025  | Terminé  | Application Flask permettant d'interagir avec un agent CPDLC via une interface web. Utilise Ingescape.       | [Lien](https://github.com/CPDLC-research-program/cpdlc-flask-app)   |
+| Projet 2                 | Étudiant 2         | ![Photo](img/user.png) | Année | Terminé  | Description détaillée du projet 2                                                                            | [Lien](URL)                                                          |
+| Projet 3                 | Étudiant 3         | ![Photo](img/user.png) | Année | Terminé  | Description détaillée du projet 3                                                                            | [Lien](URL)                                                          |
 
 ## Projets en cours
 
