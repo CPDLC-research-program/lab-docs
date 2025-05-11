@@ -31,7 +31,7 @@ table td:not(:nth-child(5)), table th:not(:nth-child(5)) {
     width: 150px; 
 }
 
-.md-typeset img {
+table td img {
     max-width: 60px;
     height: auto;
     border-radius: 50%;
