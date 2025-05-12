@@ -9,10 +9,10 @@ Notre mission est d’améliorer l’expérience des pilotes en développant des
 ## 🔗 Accès au site
 
 📎 Documentation publique :  
-👉 [https://cpdlc-research-program.github.io/lab-docs](https://cpdlc-research-program.github.io/lab-docs)
+👉 [https://uxflight.github.io/lab-docs](https://uxflight.github.io/lab-docs)
 
 📎 Code source :  
-👉 [GitHub Repository](https://github.com/CPDLC-research-program/lab-docs)
+👉 [GitHub Repository](https://github.com/UXFlight/lab-docs)
 
 ---
 
