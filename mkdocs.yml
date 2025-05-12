@@ -1,4 +1,4 @@
-site_name: CPDLC Research Program
+site_name: UXFlight
 site_url: https://UXFlight.github.io/lab-docs/
 repo_url: https://github.com/UXFlight/lab-docs
 
@@ -22,7 +22,6 @@ markdown_extensions:
   - pymdownx.emoji
   - pymdownx.highlight
   - pymdownx.tabbed
-  - pymdownx.attr_list
 
 plugins:
   - search

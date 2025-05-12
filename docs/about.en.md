@@ -1,7 +1,7 @@
-# About the CPDLC Research Program
+# About the UXFlight
 
 ## Our Mission
-The CPDLC Research Program aims to improve the pilot experience by developing software that integrates with flight simulation on **X-Plane**. We strive to create tools that make the flying experience more realistic, intuitive, and efficient for pilots.
+The UXFlight aims to improve the pilot experience by developing software that integrates with flight simulation on **X-Plane**. We strive to create tools that make the flying experience more realistic, intuitive, and efficient for pilots.
 
 ## Our Tools
 - **X-Plane**: Our base flight simulator, which allows us to test and integrate our solutions.

@@ -4,7 +4,7 @@
 
 .md-typeset__table > table {
     width: 100%;
-    table-layout: fixed; /* Définit une largeur fixe pour toutes les colonnes */
+    table-layout: fixed;
     border-collapse: collapse;
     margin-top: 1em;
     font-size: 0.95rem;
@@ -26,8 +26,11 @@ table thead {
     color: white;
 }
 
+table td:first-child, table th:first-child {
+    width: 10px; 
+}
 
-table td:not(:nth-child(5)), table th:not(:nth-child(5)) {
+table td:not(:first-child):not(:nth-child(5)), table th:not(:first-child):not(:nth-child(5)) {
     width: 150px; 
 }
 
@@ -37,6 +40,12 @@ table td img {
     border-radius: 50%;
     object-fit: cover;
     transition: transform 0.2s ease-in-out;
+}
+
+table td a {
+    color: #3366cc;
+    font-weight: 500;
+    transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 }
 
 table td a:hover {
