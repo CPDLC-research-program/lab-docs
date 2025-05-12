@@ -1,6 +1,6 @@
 site_name: CPDLC Research Program
-site_url: https://CPDLC-research-program.github.io/lab-docs/
-repo_url: https://github.com/CPDLC-research-program/lab-docs
+site_url: https://UXFlight.github.io/lab-docs/
+repo_url: https://github.com/UXFlight/lab-docs
 
 theme:
   name: material
