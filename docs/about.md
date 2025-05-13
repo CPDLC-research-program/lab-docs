@@ -9,7 +9,14 @@ Le UXFlight a pour objectif d’améliorer l’expérience des pilotes en dével
 - **GitHub** : Nous utilisons GitHub pour gérer notre codebase, collaborer et documenter notre travail.
 
 ## Nos objectifs
-- obj1
-- obj2
+- Améliorer l’immersion des simulateurs de vol en développant des interfaces et des outils intuitifs adaptés aux besoins des pilotes.
+
+- Fournir une base logicielle stable et modulaire, facilement extensible grâce à une architecture bien structurée via Ingescape.
+
+- Assurer la compatibilité et l’intégration fluide de nos outils avec le simulateur X-Plane, pour garantir des tests réalistes et reproductibles.
+
+- Favoriser la collaboration open-source en maintenant un code lisible, documenté et versionné sur GitHub.
+
+- Créer une documentation claire et accessible pour faciliter la prise en main des projets par les nouveaux membres et partenaires externes.
 
 Ce site est conçu pour être une ressource clé pour notre équipe et nos collaborateurs, avec une documentation claire et organisée.
