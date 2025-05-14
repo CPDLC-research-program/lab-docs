@@ -7,7 +7,7 @@ Welcome to the UXFlight projects page! Here, you can discover our initiatives to
 | Project                                   | Student(s)       | Photo(s)                  | Year  | Description                                |
 |-------------------------------------------|------------------|---------------------------|-------|--------------------------------------------|
 | **Project 4**<br/><br/><a href="https://github.com/UXFlight/cpdlc-comms" target="_blank" rel="noopener noreferrer">Link</a> | Irina Maximciuc     | ![Photo](img/user.png) | 2025  | [Detailed description of project 4]        |
-| **Project 5**<br/><br/><a href="https://github.com/UXFlight/HVS-2022" target="_blank" rel="noopener noreferrer">Link</a> | Luca Mason     | ![Photo](img/user.png) | 2025  | [Detailed description of project 5]        |
+| **HVS Control Interface**<br/><br/><a href="https://github.com/UXFlight/HVS-2022" target="_blank" rel="noopener noreferrer">Link</a> | Luca Mason     | ![Photo](img/Luca_M.png) | 2025  | Control interface for Helicopter Vibration Simulator (HVS) that utilises phyiscal and digital controls to input numerous flight information (eg. speed, altitute, heading) while tracking a moving target with a joystick        |
 
 ## Existing Projects
 
