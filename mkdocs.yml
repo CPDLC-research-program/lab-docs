@@ -10,6 +10,23 @@ theme:
     - navigation.top
     - content.code.copy
     - search.suggest
+    - content.action.edit
+    - content.tabs.link
+  logo: img/favicon.png
+  favicon: img/favicon.png
+  palette:
+    - scheme: default
+      primary: blue
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Passer au mode sombre
+    - scheme: slate
+      primary: blue
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Passer au mode clair
 
 markdown_extensions:
   - admonition
