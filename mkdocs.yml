@@ -5,7 +5,6 @@ repo_url: https://github.com/UXFlight/lab-docs
 theme:
   name: material
   language: fr
-  logo: img/favicon.png
   features:
     - navigation.sections
     - navigation.top
@@ -13,22 +12,21 @@ theme:
     - search.suggest
     - content.action.edit
     - content.tabs.link
+  logo: img/favicon.png
+  favicon: img/favicon.png
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: white
-      accent: "#111111"
+    - scheme: default
+      primary: blue
+      accent: amber
       toggle:
         icon: material/weather-night
         name: Passer au mode sombre
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: "#c41f1f"
-      accent: "#f5f5f5"
+    - scheme: slate
+      primary: blue
+      accent: teal
       toggle:
         icon: material/weather-sunny
         name: Passer au mode clair
-  logo: img/favicon.png
 
 markdown_extensions:
   - admonition
