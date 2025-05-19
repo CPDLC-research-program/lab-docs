@@ -6,7 +6,7 @@ Bienvenue sur la page des projets du **UXFlight** ! Découvrez ici nos initiativ
 
 | Projet                                   | Étudiant.e.s     | Photo.s                  | Année | Description                                |
 |------------------------------------------|------------------|--------------------------|-------|--------------------------------------------|
-| **Projet 4**<br/><br/><a href="https://github.com/UXFlight/cpdlc-comms" target="_blank" rel="noopener noreferrer">Lien</a> | Irina Maximciuc   | ![Photo](img/user.png) | 2025  | [Description détaillée du projet 4]        |
+| **Projet 4**<br/><br/><a href="https://github.com/UXFlight/cpdlc-comms" target="_blank" rel="noopener noreferrer">Lien</a> | Irina Maximciuc   | ![Photo](img/user.png) | 2025  | Application CPDLC (Communication de données entre le contrôleur et le pilote) visant à améliorer la communication air-sol entre les pilotes et les contrôleurs aériens. Le projet se concentre sur la création d'une interface plus intuitive et efficace pour les fonctions avancées du CPDLC, en adoptant une approche de conception centrée sur l'humain.        |
 | **Projet 5**<br/><br/><a href="https://github.com/UXFlight/HVS-2022" target="_blank" rel="noopener noreferrer">Lien</a> | Luca Mason       | ![Photo](img/user.png) | 2025  | [Description détaillée du projet 5]        |
 
 ## Projets existants
